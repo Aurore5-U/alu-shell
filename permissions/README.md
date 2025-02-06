@@ -1,1 +1,1 @@
-This will show how you can change the user to betty
+This will show the use of several commands
